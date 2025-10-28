@@ -11,7 +11,7 @@ from TikTokApi import TikTokApi  # pip install TikTokApi (unofficial)
 
 # Config
 BOT_TOKEN = '8491490234:AAGWA_sw_2xzbB2m_z6dpA-iYlhNx2IAomQ'
-SUPABASE_URL = 'postgresql://postgres.uvoheubxepbyunumqmja:Aster#123#@aws-1-eu-north-1.pooler.supabase.com:6543/postgres'
+SUPABASE_URL = 'postgresql://postgres.uvoheubxepbyunumqmja:Aster#123#@aws-1-eu-north-1.pooler.supabase.com:5432/postgres'
 SUPABASE_KEY = 'sb_publishable_k3p_vMXrjnvEB_MYCVjWPg_DfR8ZbKT'
 ADMIN_IDS = [5746625962]
 logging.basicConfig(level=logging.INFO)
